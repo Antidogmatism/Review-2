@@ -1,0 +1,23 @@
+img {
+  width: 300px;
+  height: 200px;
+  padding: 16px;
+  background-color: rgb(0, 255, 72);
+    border-radius: 16px;
+}
+label {
+  font-size: 20px;
+  color: blue; align-content: center;
+}
+body {
+  background-color: #141414; width: 100%;
+}
+h1 {
+  color: white;
+}
+h2 {
+  color: white;
+}
+h3 {
+  color: white;
+}
